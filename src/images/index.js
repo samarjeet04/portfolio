@@ -1,0 +1,16 @@
+export const flashcards = "https://res.cloudinary.com/dmmt1w6md/image/upload/v1670152345/flashcards_nv3pct.png";
+export const procedural_terrains = "https://res.cloudinary.com/dmmt1w6md/image/upload/v1670152372/procedural_terrains2_xu7ryp.png";
+export const cryptology = "https://res.cloudinary.com/dmmt1w6md/image/upload/v1670152319/cryptology_igxir6.png";
+export const Noto = "https://res.cloudinary.com/dmmt1w6md/image/upload/v1670152336/noto_sn8gsh.png";
+// export const rarety = "https://res.cloudinary.com/dmmt1w6md/image/upload/v1670152330/rarety_lfucii.png";
+export const bg = "https://res.cloudinary.com/dmmt1w6md/image/upload/v1670152470/bg2_wmplwf.png";
+export const abt = "https://res.cloudinary.com/dmmt1w6md/image/upload/v1670152465/abt_rh11hd.png";
+export const placeholder = "https://res.cloudinary.com/dmmt1w6md/image/upload/v1670152462/placeholder_kcsw1v.png";
+export const j = "https://res.cloudinary.com/dmmt1w6md/image/upload/v1670152470/j19_yxgihl.png";
+export const metalMap = "https://res.cloudinary.com/dmmt1w6md/image/upload/v1670152381/2_e6yhpf.png";
+export const Deloitte = "https://res.cloudinary.com/dmmt1w6md/image/upload/v1670153672/deloitte_cvzr0j.png";
+export const JPMC = "https://res.cloudinary.com/dmmt1w6md/image/upload/v1670153675/JPMC_tswwis.png";
+export const Reactjs = "https://res.cloudinary.com/dmmt1w6md/image/upload/v1670153701/React_oishkn.png";
+export const Postman = "https://res.cloudinary.com/dmmt1w6md/image/upload/v1670153673/postman_jsugib.png";
+export const Goldman = "https://res.cloudinary.com/dmmt1w6md/image/upload/v1670153674/GS_etzulk.png";
+export const STORE = "https://res.cloudinary.com/dmmt1w6md/image/upload/v1670160025/stor-e_tjaugt.png";
